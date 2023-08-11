@@ -21,4 +21,4 @@ jobs:
       - name: Run Node.js script
         run: |
           npm install
-          node your-script.js
+          node index.js
