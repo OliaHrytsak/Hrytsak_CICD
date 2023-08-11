@@ -25,11 +25,11 @@ jobs:
       - name: Run Unit Tests
         run: npm test
 
-      - name: Update repository
-        run: |
-          git config --global user.email "oliagrytsak1991@gmail.com"
-          git config --global user.name "OliaHrytsak"
-          git add .
-          git commit -m "Update project code"
-          git push
+#       - name: Update repository
+#         run: |
+#           git config --global user.email "oliagrytsak1991@gmail.com"
+#           git config --global user.name "OliaHrytsak"
+#           git add .
+#           git commit -m "Update project code"
+#           git push
 
