@@ -6,3 +6,4 @@ To set up the project, first run `npm install` then you can start server using `
 Good luck!
 
 ![](https://github.com/OliaHrytsak/Hrytsak_CICD/actions/workflows/ci.yml/badge.svg)
+![](https://github.com/OliaHrytsak/Hrytsak_CICD/actions/workflows/ci_pull.yml/badge.svg)
