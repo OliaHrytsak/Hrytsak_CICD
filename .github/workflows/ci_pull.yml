@@ -21,7 +21,8 @@ jobs:
       - name: Run Node.js script
         run: |
           npm install
-          node index.js
+          node pull-event-handler.js
+          
           
           
   if-merged:
@@ -40,4 +41,4 @@ jobs:
       - name: Run Node.js script
         run: |
           npm install
-          node index.js
+          node pull-event-handler.js
