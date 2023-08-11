@@ -7,7 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  my_first_action:
+#   build:
     runs-on: ubuntu-latest
 
     steps:
